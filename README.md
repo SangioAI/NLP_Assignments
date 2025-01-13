@@ -5,6 +5,8 @@
 report we will evaluate the classification performance and compare the performances of different pre-trained LLMs by using both zero- and few-shot-prompting techniques.
 
 # Results
+For more details look to [report1.pdf](report1.pdf) for assignment1 and [report2.pdf](report2.pdf) for assignment2.
+
 
 Assignment 1 ([assignment1.ipynb](assignment1.ipynb))
 ----
